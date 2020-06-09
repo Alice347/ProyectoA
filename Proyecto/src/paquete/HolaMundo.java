@@ -1,4 +1,5 @@
 package paquete;
+import java.util.Scanner;
 
 public class HolaMundo {
 //Modificar el código
